@@ -20,12 +20,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,redis,aws,ts,py,rust,dotnet&perline=10" />
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rocky-Gong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Gong&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 🔥 Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rocky-Gong&theme=tokyonight&hide_border=true" />
