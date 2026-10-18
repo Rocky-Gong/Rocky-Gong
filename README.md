@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,redis,aws,ts,py&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,redis,aws,ts,py,rust,dotnet&perline=10" />
 </p>
 
 ### 📊 GitHub Stats
